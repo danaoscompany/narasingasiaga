@@ -76,9 +76,9 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'dann5478_siapsiaga',
-	'password' => '=_-Capf76efHDgK-',
-	'database' => 'dann5478_siapsiaga',
+	'username' => 'yonz1914_yonifkostrad',
+	'password' => '~?m$)UY6>bZ`p^D5',
+	'database' => 'yonz1914_yonifkostrad',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
